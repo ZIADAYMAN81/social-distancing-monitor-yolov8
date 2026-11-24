@@ -1,6 +1,6 @@
 # Social Distancing Monitor (YOLOv8)
 
-> Data Science coursework, The British University in Egypt, 2025. Author: Ziad Ayman.
+> Visual Computing coursework, The British University in Egypt, 2025. Author: Ziad Ayman.
 
 A real-time computer vision tool that finds people in a webcam or video feed with **YOLOv8** and flags anyone standing closer than a safe distance. It runs on an ordinary laptop CPU at about **12 frames per second**.
 

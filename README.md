@@ -1,5 +1,7 @@
 # Social Distancing Monitor (YOLOv8)
 
+[![tests](https://github.com/ZIADAYMAN81/social-distancing-monitor-yolov8/actions/workflows/tests.yml/badge.svg)](https://github.com/ZIADAYMAN81/social-distancing-monitor-yolov8/actions/workflows/tests.yml)
+
 > Visual Computing coursework, The British University in Egypt, 2025. Author: Ziad Ayman.
 
 A real-time computer vision tool that finds people in a webcam or video feed with **YOLOv8** and flags anyone standing closer than a safe distance. It runs on an ordinary laptop CPU at about **12 frames per second**.
@@ -63,3 +65,6 @@ The YOLOv8 weights (`yolov8n.pt`) download automatically on first run. See `pyth
 
 ## Tech stack
 Python · YOLOv8 (Ultralytics) · OpenCV · NumPy · pytest
+
+## License
+MIT, see [LICENSE](LICENSE).
